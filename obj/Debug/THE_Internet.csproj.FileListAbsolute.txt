@@ -1,0 +1,15 @@
+c:\users\egypt_laptop\documents\visual studio 2012\Projects\THE_Internet\THE_Internet\bin\Debug\THE_Internet.exe.config
+c:\users\egypt_laptop\documents\visual studio 2012\Projects\THE_Internet\THE_Internet\bin\Debug\THE_Internet.exe
+c:\users\egypt_laptop\documents\visual studio 2012\Projects\THE_Internet\THE_Internet\bin\Debug\THE_Internet.pdb
+c:\users\egypt_laptop\documents\visual studio 2012\Projects\THE_Internet\THE_Internet\obj\Debug\THE_Internet.csprojResolveAssemblyReference.cache
+c:\users\egypt_laptop\documents\visual studio 2012\Projects\THE_Internet\THE_Internet\obj\Debug\MainWindow.baml
+c:\users\egypt_laptop\documents\visual studio 2012\Projects\THE_Internet\THE_Internet\obj\Debug\MainWindow.g.cs
+c:\users\egypt_laptop\documents\visual studio 2012\Projects\THE_Internet\THE_Internet\obj\Debug\App.g.cs
+c:\users\egypt_laptop\documents\visual studio 2012\Projects\THE_Internet\THE_Internet\obj\Debug\THE_Internet_MarkupCompile.cache
+c:\users\egypt_laptop\documents\visual studio 2012\Projects\THE_Internet\THE_Internet\obj\Debug\THE_Internet.g.resources
+c:\users\egypt_laptop\documents\visual studio 2012\Projects\THE_Internet\THE_Internet\obj\Debug\THE_Internet.Properties.Resources.resources
+c:\users\egypt_laptop\documents\visual studio 2012\Projects\THE_Internet\THE_Internet\obj\Debug\THE_Internet.csproj.GenerateResource.Cache
+c:\users\egypt_laptop\documents\visual studio 2012\Projects\THE_Internet\THE_Internet\obj\Debug\THE_Internet.exe
+c:\users\egypt_laptop\documents\visual studio 2012\Projects\THE_Internet\THE_Internet\obj\Debug\THE_Internet.pdb
+C:\Users\EGYPT_LAPTOP\documents\visual studio 2012\Projects\THE_Internet\THE_Internet\obj\Debug\Internet.baml
+C:\Users\EGYPT_LAPTOP\documents\visual studio 2012\Projects\THE_Internet\THE_Internet\obj\Debug\Internet.g.cs

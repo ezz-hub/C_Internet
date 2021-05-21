@@ -1,0 +1,12 @@
+﻿<Window x:Class="THE_Internet.Internet"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Internet" Height="350" Width="525">
+    <Grid>
+        
+        <Button  Name="MainInternet"  Click="MainInternet_Click_1" FontSize="30" Margin="10,10,401.4,239.8"  Background="White"  BorderBrush="Aqua" >Button</Button>
+        <WebBrowser Name="MyWeb" HorizontalAlignment="Left" Height="198" Margin="41,96,0,0" VerticalAlignment="Top" Width="444"/>
+
+
+    </Grid>
+</Window>

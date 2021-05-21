@@ -1,0 +1,25 @@
+﻿<Window x:Class="THE_Internet.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        
+        <Button Click="Button_Click_1" Margin="182,75,204.4,98.8" Background="White">
+        
+            <StackPanel>
+
+
+                <Image   Source="images.00101jpg.jpg"   Stretch="Uniform" Height="98" Width="112" ></Image>
+                <TextBlock TextAlignment="Center"   Background="Aqua" Height="21" Width="100" >Internet</TextBlock>
+
+
+
+
+
+
+            </StackPanel>
+            
+        </Button>
+        
+    </Grid>
+</Window>
